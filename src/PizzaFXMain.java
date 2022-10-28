@@ -17,7 +17,7 @@ import javafx.stage.Stage;
 
 /**
  *
- * @author navpreetwaraich
+ * @author navpreetwaraich 1
  */
 public class PizzaFXMain extends Application {
 
